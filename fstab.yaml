@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1RJQuTDgTJQnXW70xbSRu0DxW77V6-xoT
+  /:
+    url: https://content.da.live/Mark-M-Ensemble/course/
+    type: markup
